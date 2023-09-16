@@ -1,0 +1,452 @@
+2023-09-12 11:09:472 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:103 INFO  HomePage :39 - Clicking on Login Button
+2023-09-12 11:09:251 INFO  LoginPage :37 - Enter username Json to username field [[ChromeDriver: chrome on windows (ac125c2ae05d8da4df54164db55d31f9)] -> id: loginusername]
+2023-09-12 11:09:590 INFO  LoginPage :42 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (ac125c2ae05d8da4df54164db55d31f9)] -> id: loginpassword]
+2023-09-12 11:09:656 INFO  LoginPage :47 - Clicking on Login Button
+2023-09-12 11:09:752 INFO  LoginPage :53 - get actual title text of Welcome
+2023-09-12 11:09:954 INFO  HomePage :32 - Clicking on SignUp Button
+2023-09-12 11:09:58 INFO  SignUpPage :42 - Enter User [[ChromeDriver: chrome on windows (4e1f730f6f23671fe02a889fee303ff2)] -> id: sign-username]
+2023-09-12 11:09:405 INFO  SignUpPage :47 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (4e1f730f6f23671fe02a889fee303ff2)] -> id: sign-password]
+2023-09-12 11:09:493 INFO  SignUpPage :52 - Clicking on SignUp Button
+2023-09-12 11:09:963 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:880 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:89 INFO  AddToCartPage :22 - Clicking on Add To Cart Button
+2023-09-12 11:09:942 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:493 INFO  AddToCartPage :22 - Clicking on Add To Cart Button
+2023-09-12 11:09:556 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:130 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 11:09:668 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:236 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 11:09:822 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:459 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 11:09:210 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:828 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 11:09:446 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:110 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 11:09:450 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 11:09:982 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:184 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:730 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:301 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:877 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:50 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:598 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:199 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:833 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:160 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:815 INFO  AddToCartPage :23 - Clicking on Add To Cart Button
+2023-09-12 12:09:133 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:850 INFO  AddToCartPage :30 - Clicking on Add To Cart Button
+2023-09-12 12:09:337 INFO  AddToCartPage :46 - Clicking on Cart Tab
+2023-09-12 12:09:646 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:171 INFO  AddToCartPage :30 - Clicking on Add To Cart Button
+2023-09-12 12:09:815 INFO  AddToCartPage :46 - Clicking on Cart Tab
+2023-09-12 12:09:255 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:942 INFO  AddToCartPage :30 - Clicking on Add To Cart Button
+2023-09-12 12:09:459 INFO  AddToCartPage :46 - Clicking on Cart Tab
+2023-09-12 12:09:432 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:960 INFO  AddToCartPage :31 - Clicking on Add To Cart Button
+2023-09-12 12:09:494 INFO  AddToCartPage :47 - Clicking on Cart Tab
+2023-09-12 12:09:992 INFO  AddToCartPage :52 - get actual title text of Product Name
+2023-09-12 12:09:643 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:252 INFO  AddToCartPage :31 - Clicking on Add To Cart Button
+2023-09-12 12:09:851 INFO  AddToCartPage :47 - Clicking on Cart Tab
+2023-09-12 12:09:330 INFO  AddToCartPage :52 - get actual title text of Product Name
+2023-09-12 12:09:596 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-12 12:09:173 INFO  AddToCartPage :31 - Clicking on Add To Cart Button
+2023-09-12 12:09:782 INFO  AddToCartPage :47 - Clicking on Cart Tab
+2023-09-12 12:09:277 INFO  AddToCartPage :52 - get actual title text of Product Name
+2023-09-13 11:09:383 INFO  AddToCartPage :47 - Clicking on Cart Tab
+2023-09-13 11:09:719 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 11:09:324 INFO  AddToCartPage :31 - Clicking on Add To Cart Button
+2023-09-13 11:09:920 INFO  AddToCartPage :47 - Clicking on Cart Tab
+2023-09-13 11:09:498 INFO  AddToCartPage :52 - get actual title text of Product Name
+2023-09-13 11:09:470 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 11:09:905 INFO  AddToCartPage :36 - Clicking on Add To Cart Button
+2023-09-13 11:09:509 INFO  AddToCartPage :52 - Clicking on Cart Tab
+2023-09-13 11:09:980 INFO  AddToCartPage :57 - get actual title text of Product Name
+2023-09-13 11:09:26 INFO  AddToCartPage :61 - Clicking on Place To Order Button
+2023-09-13 12:09:638 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 12:09:549 INFO  AddToCartPage :65 - Clicking on Add To Cart Button
+2023-09-13 12:09:402 INFO  AddToCartPage :81 - Clicking on Cart Tab
+2023-09-13 12:09:108 INFO  AddToCartPage :86 - get actual title text of Product Name
+2023-09-13 12:09:167 INFO  AddToCartPage :90 - Clicking on Place To Order Button
+2023-09-13 12:09:287 INFO  AddToCartPage :95 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='name']]
+2023-09-13 12:09:577 INFO  AddToCartPage :100 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='country']]
+2023-09-13 12:09:708 INFO  AddToCartPage :105 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='city']]
+2023-09-13 12:09:827 INFO  AddToCartPage :109 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='card']]
+2023-09-13 12:09:967 INFO  AddToCartPage :116 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='month']]
+2023-09-13 12:09:77 INFO  AddToCartPage :121 - Enter card holder Expire Year 2023 to Yea field [[ChromeDriver: chrome on windows (c774734cec86bba0cb65ddfbd9a47800)] -> xpath: //input[@id='year']]
+2023-09-13 12:09:671 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 12:09:311 INFO  AddToCartPage :69 - Clicking on Add To Cart Button
+2023-09-13 12:09:829 INFO  AddToCartPage :85 - Clicking on Cart Tab
+2023-09-13 12:09:348 INFO  AddToCartPage :90 - get actual title text of Product Name
+2023-09-13 12:09:398 INFO  AddToCartPage :94 - Clicking on Place To Order Button
+2023-09-13 12:09:490 INFO  AddToCartPage :99 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='name']]
+2023-09-13 12:09:781 INFO  AddToCartPage :104 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='country']]
+2023-09-13 12:09:870 INFO  AddToCartPage :109 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='city']]
+2023-09-13 12:09:992 INFO  AddToCartPage :113 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='card']]
+2023-09-13 12:09:108 INFO  AddToCartPage :120 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='month']]
+2023-09-13 12:09:205 INFO  AddToCartPage :125 - Enter card holder Expire Year 2023 to Yea field [[ChromeDriver: chrome on windows (750c672ce1e09e794b470b8160be04ee)] -> xpath: //input[@id='year']]
+2023-09-13 12:09:281 INFO  AddToCartPage :130 - Clicking on Purchase Button
+2023-09-13 12:09:825 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 12:09:419 INFO  AddToCartPage :75 - Clicking on Add To Cart Button
+2023-09-13 12:09:933 INFO  AddToCartPage :91 - Clicking on Cart Tab
+2023-09-13 12:09:356 INFO  AddToCartPage :96 - get actual title text of Product Name
+2023-09-13 12:09:406 INFO  AddToCartPage :100 - Clicking on Place To Order Button
+2023-09-13 12:09:524 INFO  AddToCartPage :105 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='name']]
+2023-09-13 12:09:835 INFO  AddToCartPage :110 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='country']]
+2023-09-13 12:09:988 INFO  AddToCartPage :115 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='city']]
+2023-09-13 12:09:120 INFO  AddToCartPage :119 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='card']]
+2023-09-13 12:09:274 INFO  AddToCartPage :126 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='month']]
+2023-09-13 12:09:377 INFO  AddToCartPage :131 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (853de67f54495ac3df8fec2235214ae6)] -> xpath: //input[@id='year']]
+2023-09-13 12:09:484 INFO  AddToCartPage :136 - Clicking on Purchase Button
+2023-09-13 12:09:634 INFO  AddToCartPage :142 - get actual title text of Thank You
+2023-09-13 12:09:614 INFO  HomePage :45 - Mouse Hover And Click IPhone6
+2023-09-13 12:09:180 INFO  AddToCartPage :75 - Clicking on Add To Cart Button
+2023-09-13 12:09:619 INFO  AddToCartPage :91 - Clicking on Cart Tab
+2023-09-13 12:09:175 INFO  AddToCartPage :96 - get actual title text of Product Name
+2023-09-13 12:09:227 INFO  AddToCartPage :100 - Clicking on Place To Order Button
+2023-09-13 12:09:352 INFO  AddToCartPage :105 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='name']]
+2023-09-13 12:09:655 INFO  AddToCartPage :110 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='country']]
+2023-09-13 12:09:771 INFO  AddToCartPage :115 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='city']]
+2023-09-13 12:09:879 INFO  AddToCartPage :119 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='card']]
+2023-09-13 12:09:41 INFO  AddToCartPage :126 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='month']]
+2023-09-13 12:09:158 INFO  AddToCartPage :131 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (ebec7a18fe21585c55ddf6e6bc4fa3ef)] -> xpath: //input[@id='year']]
+2023-09-13 12:09:243 INFO  AddToCartPage :136 - Clicking on Purchase Button
+2023-09-13 12:09:368 INFO  AddToCartPage :142 - get actual title text of Thank You
+2023-09-14 13:09:694 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 13:09:214 INFO  AddToCartPage :80 - Clicking on Add To Cart Button
+2023-09-14 13:09:706 INFO  AddToCartPage :99 - Clicking on Cart Tab
+2023-09-14 13:09:78 INFO  AddToCartPage :105 - get actual title text of Product Name
+2023-09-14 13:09:102 INFO  AddToCartPage :111 - Clicking on Place To Order Button
+2023-09-14 13:09:151 INFO  AddToCartPage :117 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='name']]
+2023-09-14 13:09:329 INFO  AddToCartPage :123 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='country']]
+2023-09-14 13:09:398 INFO  AddToCartPage :128 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='city']]
+2023-09-14 13:09:457 INFO  AddToCartPage :134 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='card']]
+2023-09-14 13:09:512 INFO  AddToCartPage :142 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='month']]
+2023-09-14 13:09:561 INFO  AddToCartPage :148 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (28560b32ba75e5f497340d85ccf5123a)] -> xpath: //input[@id='year']]
+2023-09-14 13:09:597 INFO  AddToCartPage :154 - Clicking on Purchase Button
+2023-09-14 13:09:647 INFO  AddToCartPage :161 - get actual title text of Thank You
+2023-09-14 14:09:354 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 14:09:806 INFO  AddToCartPage :87 - Clicking on Add To Cart Button
+2023-09-14 14:09:317 INFO  AddToCartPage :106 - Clicking on Cart Tab
+2023-09-14 14:09:727 INFO  AddToCartPage :112 - get actual title text of Product Name
+2023-09-14 14:09:753 INFO  AddToCartPage :118 - Clicking on Place To Order Button
+2023-09-14 14:09:817 INFO  AddToCartPage :124 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='name']]
+2023-09-14 14:09:48 INFO  AddToCartPage :130 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='country']]
+2023-09-14 14:09:138 INFO  AddToCartPage :135 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='city']]
+2023-09-14 14:09:228 INFO  AddToCartPage :141 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='card']]
+2023-09-14 14:09:307 INFO  AddToCartPage :149 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='month']]
+2023-09-14 14:09:367 INFO  AddToCartPage :155 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (23d03ed3b5a1a18a42e4496eb5bb8d36)] -> xpath: //input[@id='year']]
+2023-09-14 14:09:421 INFO  AddToCartPage :161 - Clicking on Purchase Button
+2023-09-14 14:09:498 INFO  AddToCartPage :168 - get actual title text of Thank You
+2023-09-14 14:09:520 INFO  AddToCartPage :174 - Click on ok button
+2023-09-14 14:09:887 INFO  AddToCartPage :180 - get actual title text of Logo
+2023-09-14 14:09:873 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-14 14:09:974 INFO  SignUpPage :50 - Enter User [[ChromeDriver: chrome on windows (c3ed7b0b0020148d0044c73f153dece8)] -> id: sign-username]
+2023-09-14 14:09:186 INFO  SignUpPage :58 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (c3ed7b0b0020148d0044c73f153dece8)] -> id: sign-password]
+2023-09-14 14:09:251 INFO  SignUpPage :65 - Clicking on SignUp Button
+2023-09-14 14:09:840 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 14:09:922 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (cc1b8818a7677bfa7b83b979a0ecfe3f)] -> id: loginusername]
+2023-09-14 14:09:139 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (cc1b8818a7677bfa7b83b979a0ecfe3f)] -> id: loginpassword]
+2023-09-14 14:09:234 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 14:09:370 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 14:09:725 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 14:09:79 INFO  CartPage :87 - Clicking on Add To Cart Button
+2023-09-14 14:09:942 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 14:09:415 INFO  CartPage :87 - Clicking on Add To Cart Button
+2023-09-14 14:09:844 INFO  CartPage :106 - Clicking on Cart Tab
+2023-09-14 14:09:223 INFO  CartPage :112 - get actual title text of Product Name
+2023-09-14 14:09:248 INFO  CartPage :118 - Clicking on Place To Order Button
+2023-09-14 14:09:309 INFO  CartPage :124 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='name']]
+2023-09-14 14:09:533 INFO  CartPage :130 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='country']]
+2023-09-14 14:09:625 INFO  CartPage :135 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='city']]
+2023-09-14 14:09:694 INFO  CartPage :141 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='card']]
+2023-09-14 14:09:754 INFO  CartPage :149 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='month']]
+2023-09-14 14:09:795 INFO  CartPage :155 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (1373bc61ce74d2d3e74804c8dded5f1c)] -> xpath: //input[@id='year']]
+2023-09-14 14:09:830 INFO  CartPage :161 - Clicking on Purchase Button
+2023-09-14 14:09:879 INFO  CartPage :168 - get actual title text of Thank You
+2023-09-14 14:09:902 INFO  CartPage :174 - Click on ok button
+2023-09-14 14:09:297 INFO  CartPage :180 - get actual title text of Logo
+2023-09-14 15:09:680 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:774 INFO  LoginPage :47 - Enter username Json to username field [[ChromeDriver: chrome on windows (8d731d44f2a2b2b2658a9d9080e2e47a)] -> id: loginusername]
+2023-09-14 15:09:981 INFO  LoginPage :54 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (8d731d44f2a2b2b2658a9d9080e2e47a)] -> id: loginpassword]
+2023-09-14 15:09:33 INFO  LoginPage :61 - Clicking on Login Button
+2023-09-14 15:09:117 INFO  LoginPage :72 - get actual title text of Welcome
+2023-09-14 15:09:147 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:231 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (fd44915c701d220499d11183445045a6)] -> id: loginusername]
+2023-09-14 15:09:461 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (fd44915c701d220499d11183445045a6)] -> id: loginpassword]
+2023-09-14 15:09:583 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:662 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:301 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:393 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (1dd22926b9d32e1501d1e0f7397206e4)] -> id: loginusername]
+2023-09-14 15:09:597 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (1dd22926b9d32e1501d1e0f7397206e4)] -> id: loginpassword]
+2023-09-14 15:09:654 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:762 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:83 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:177 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (0a6668fa9f13aadbbbbc1ce58b26a994)] -> id: loginusername]
+2023-09-14 15:09:370 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (0a6668fa9f13aadbbbbc1ce58b26a994)] -> id: loginpassword]
+2023-09-14 15:09:443 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:516 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:495 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:612 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (7b2584620ef3dae9fa86283f46341d62)] -> id: loginusername]
+2023-09-14 15:09:823 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (7b2584620ef3dae9fa86283f46341d62)] -> id: loginpassword]
+2023-09-14 15:09:875 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:960 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:190 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:284 INFO  LoginPage :50 - Enter username Json to username field [[ChromeDriver: chrome on windows (edb9598d502b3a0cccae253fe1b3db1e)] -> id: loginusername]
+2023-09-14 15:09:496 INFO  LoginPage :57 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (edb9598d502b3a0cccae253fe1b3db1e)] -> id: loginpassword]
+2023-09-14 15:09:571 INFO  LoginPage :64 - Clicking on Login Button
+2023-09-14 15:09:629 INFO  LoginPage :75 - get actual title text of Welcome
+2023-09-14 15:09:408 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:505 INFO  LoginPage :50 - Enter username Json to username field [[ChromeDriver: chrome on windows (afae6d54e74e8b444336234f3888a882)] -> id: loginusername]
+2023-09-14 15:09:739 INFO  LoginPage :57 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (afae6d54e74e8b444336234f3888a882)] -> id: loginpassword]
+2023-09-14 15:09:819 INFO  LoginPage :64 - Clicking on Login Button
+2023-09-14 15:09:985 INFO  LoginPage :75 - get actual title text of Welcome
+2023-09-14 15:09:717 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:825 INFO  LoginPage :50 - Enter username Json to username field [[ChromeDriver: chrome on windows (fe6d23c0f29edcdf724e97fc5b293b14)] -> id: loginusername]
+2023-09-14 15:09:88 INFO  LoginPage :57 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (fe6d23c0f29edcdf724e97fc5b293b14)] -> id: loginpassword]
+2023-09-14 15:09:231 INFO  LoginPage :64 - Clicking on Login Button
+2023-09-14 15:09:327 INFO  LoginPage :75 - get actual title text of Welcome
+2023-09-14 15:09:132 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:255 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (2bb2086cf22a89ba9426652bf68e05c1)] -> id: loginusername]
+2023-09-14 15:09:565 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (2bb2086cf22a89ba9426652bf68e05c1)] -> id: loginpassword]
+2023-09-14 15:09:709 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:886 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:346 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:473 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (fb204d93b998d356a0fd3703725c934e)] -> id: loginusername]
+2023-09-14 15:09:700 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (fb204d93b998d356a0fd3703725c934e)] -> id: loginpassword]
+2023-09-14 15:09:808 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:914 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 15:09:921 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 15:09:02 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (4878cc39fefcc9545c53f1dc04ef7d38)] -> id: loginusername]
+2023-09-14 15:09:276 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (4878cc39fefcc9545c53f1dc04ef7d38)] -> id: loginpassword]
+2023-09-14 15:09:341 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 15:09:524 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:822 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:896 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (8cf05d451a2f580637c776c618403702)] -> id: loginusername]
+2023-09-14 16:09:78 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (8cf05d451a2f580637c776c618403702)] -> id: loginpassword]
+2023-09-14 16:09:139 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:191 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:629 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:683 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (342051c990bf351efc1c5227532e0090)] -> id: loginusername]
+2023-09-14 16:09:852 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (342051c990bf351efc1c5227532e0090)] -> id: loginpassword]
+2023-09-14 16:09:887 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:934 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:662 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:756 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (83ee1b8c368519dbd3e4141346dcd206)] -> id: loginusername]
+2023-09-14 16:09:942 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (83ee1b8c368519dbd3e4141346dcd206)] -> id: loginpassword]
+2023-09-14 16:09:987 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:55 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:613 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:666 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (710e1a0b760940f4ffaea16a9a7f9b0d)] -> id: loginusername]
+2023-09-14 16:09:842 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (710e1a0b760940f4ffaea16a9a7f9b0d)] -> id: loginpassword]
+2023-09-14 16:09:880 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:940 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:554 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:624 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (cf376370a73b3dc5d8c4ffc02628f611)] -> id: loginusername]
+2023-09-14 16:09:799 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (cf376370a73b3dc5d8c4ffc02628f611)] -> id: loginpassword]
+2023-09-14 16:09:859 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:904 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:746 INFO  HomePage :46 - Clicking on Login Button
+2023-09-14 16:09:803 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (0aefba40da807fa1ac63d113971962de)] -> id: loginusername]
+2023-09-14 16:09:969 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (0aefba40da807fa1ac63d113971962de)] -> id: loginpassword]
+2023-09-14 16:09:20 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-14 16:09:78 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-14 16:09:340 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 16:09:855 INFO  CartPage :87 - Clicking on Add To Cart Button
+2023-09-14 16:09:391 INFO  CartPage :106 - Clicking on Cart Tab
+2023-09-14 16:09:840 INFO  CartPage :112 - get actual title text of Product Name
+2023-09-14 16:09:864 INFO  CartPage :118 - Clicking on Place To Order Button
+2023-09-14 16:09:916 INFO  CartPage :124 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='name']]
+2023-09-14 16:09:109 INFO  CartPage :130 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='country']]
+2023-09-14 16:09:190 INFO  CartPage :135 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='city']]
+2023-09-14 16:09:258 INFO  CartPage :141 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='card']]
+2023-09-14 16:09:316 INFO  CartPage :149 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='month']]
+2023-09-14 16:09:366 INFO  CartPage :155 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (876943fd99bd3f64cc8b7aeae33e1aea)] -> xpath: //input[@id='year']]
+2023-09-14 16:09:403 INFO  CartPage :161 - Clicking on Purchase Button
+2023-09-14 16:09:454 INFO  CartPage :168 - get actual title text of Thank You
+2023-09-14 16:09:475 INFO  CartPage :174 - Click on ok button
+2023-09-14 16:09:858 INFO  CartPage :180 - get actual title text of Logo
+2023-09-14 16:09:753 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-14 16:09:836 INFO  SignUpPage :50 - Enter User [[ChromeDriver: chrome on windows (0dfe928d15a8cebb8b39d81d91a80a92)] -> id: sign-username]
+2023-09-14 16:09:34 INFO  SignUpPage :58 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (0dfe928d15a8cebb8b39d81d91a80a92)] -> id: sign-password]
+2023-09-14 16:09:75 INFO  SignUpPage :65 - Clicking on SignUp Button
+2023-09-14 16:09:164 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 16:09:667 INFO  CartPage :87 - Clicking on Add To Cart Button
+2023-09-14 16:09:127 INFO  CartPage :106 - Clicking on Cart Tab
+2023-09-14 16:09:522 INFO  CartPage :112 - get actual title text of Product Name
+2023-09-14 16:09:545 INFO  CartPage :118 - Clicking on Place To Order Button
+2023-09-14 16:09:596 INFO  CartPage :124 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='name']]
+2023-09-14 16:09:786 INFO  CartPage :130 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='country']]
+2023-09-14 16:09:845 INFO  CartPage :135 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='city']]
+2023-09-14 16:09:898 INFO  CartPage :141 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='card']]
+2023-09-14 16:09:947 INFO  CartPage :149 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='month']]
+2023-09-14 16:09:987 INFO  CartPage :155 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (64b953b651314fa220ce386619cd2012)] -> xpath: //input[@id='year']]
+2023-09-14 16:09:20 INFO  CartPage :161 - Clicking on Purchase Button
+2023-09-14 16:09:73 INFO  CartPage :168 - get actual title text of Thank You
+2023-09-14 16:09:95 INFO  CartPage :174 - Click on ok button
+2023-09-14 16:09:476 INFO  CartPage :180 - get actual title text of Logo
+2023-09-14 16:09:741 INFO  HomePage :54 - Mouse Hover And Click IPhone6
+2023-09-14 16:09:230 INFO  CartPage :87 - Clicking on Add To Cart Button
+2023-09-14 16:09:670 INFO  CartPage :106 - Clicking on Cart Tab
+2023-09-14 16:09:81 INFO  CartPage :112 - get actual title text of Product Name
+2023-09-14 16:09:104 INFO  CartPage :118 - Clicking on Place To Order Button
+2023-09-14 16:09:153 INFO  CartPage :124 - Enter card holder name Mr Smith to CardHolder Name field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='name']]
+2023-09-14 16:09:346 INFO  CartPage :130 - Enter card holder Country name United Kingdom to CardHolder Country Name field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='country']]
+2023-09-14 16:09:409 INFO  CartPage :135 - Enter card holder City name London to CardHolder City Name field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='city']]
+2023-09-14 16:09:471 INFO  CartPage :141 - Enter card holder Card Number 5105105105105100 to CardHolder Number field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='card']]
+2023-09-14 16:09:532 INFO  CartPage :149 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='month']]
+2023-09-14 16:09:583 INFO  CartPage :155 - Enter card holder Expire Year 2025 to Yea field [[ChromeDriver: chrome on windows (5a555f98cc015e781d6037280a0f4121)] -> xpath: //input[@id='year']]
+2023-09-14 16:09:619 INFO  CartPage :161 - Clicking on Purchase Button
+2023-09-14 16:09:681 INFO  CartPage :168 - get actual title text of Thank You
+2023-09-14 16:09:706 INFO  CartPage :174 - Click on ok button
+2023-09-14 16:09:136 INFO  CartPage :180 - get actual title text of Logo
+2023-09-15 18:09:960 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:99 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (752a463b613ab6e24b57c3d87a590d32)] -> id: loginusername]
+2023-09-15 18:09:394 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (752a463b613ab6e24b57c3d87a590d32)] -> id: loginpassword]
+2023-09-15 18:09:484 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:608 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 18:09:600 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:797 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (26a7caa0a6edfaa6ecdc6b506673b170)] -> id: loginusername]
+2023-09-15 18:09:98 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (26a7caa0a6edfaa6ecdc6b506673b170)] -> id: loginpassword]
+2023-09-15 18:09:266 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:454 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 18:09:374 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:526 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (c132a9e6cbd65cb9548bd6a85f8546dd)] -> id: loginusername]
+2023-09-15 18:09:786 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (c132a9e6cbd65cb9548bd6a85f8546dd)] -> id: loginpassword]
+2023-09-15 18:09:871 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:57 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 18:09:861 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:87 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (a31802d3c0d78782e060b2d549b49629)] -> id: loginusername]
+2023-09-15 18:09:427 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (a31802d3c0d78782e060b2d549b49629)] -> id: loginpassword]
+2023-09-15 18:09:589 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:733 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 18:09:463 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:634 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (5f95b702cba1ffc06db5e27ef5e0ba1f)] -> id: loginusername]
+2023-09-15 18:09:879 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (5f95b702cba1ffc06db5e27ef5e0ba1f)] -> id: loginpassword]
+2023-09-15 18:09:983 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:95 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 18:09:772 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 18:09:909 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (d524264bb29ab0adbb8dd108b127d011)] -> id: loginusername]
+2023-09-15 18:09:98 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (d524264bb29ab0adbb8dd108b127d011)] -> id: loginpassword]
+2023-09-15 18:09:190 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 18:09:331 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:983 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:172 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (7d1ada9d10adeb37cfc85dda35777975)] -> id: loginusername]
+2023-09-15 19:09:446 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (7d1ada9d10adeb37cfc85dda35777975)] -> id: loginpassword]
+2023-09-15 19:09:568 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:719 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:108 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:312 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (00222cfeffb7d97e44a464ad167eb9c9)] -> id: loginusername]
+2023-09-15 19:09:514 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (00222cfeffb7d97e44a464ad167eb9c9)] -> id: loginpassword]
+2023-09-15 19:09:716 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:887 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:863 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:999 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (cac63b82803c1c68b554e8dcc88d8e6d)] -> id: loginusername]
+2023-09-15 19:09:291 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (cac63b82803c1c68b554e8dcc88d8e6d)] -> id: loginpassword]
+2023-09-15 19:09:419 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:590 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:368 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:496 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (017b6ebd51484f2b09f5e5202be7c2d7)] -> id: loginusername]
+2023-09-15 19:09:835 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (017b6ebd51484f2b09f5e5202be7c2d7)] -> id: loginpassword]
+2023-09-15 19:09:994 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:200 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:104 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:282 INFO  SignUpPage :55 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (a7b13f6fb34701e35a4fc3d4990ce76c)] -> id: sign-password]
+2023-09-15 19:09:505 INFO  SignUpPage :62 - Clicking on SignUp Button
+2023-09-15 19:09:833 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:103 INFO  SignUpPage :55 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (7c9a69d14f9e1b4f47d06bbfa84e248a)] -> id: sign-password]
+2023-09-15 19:09:252 INFO  SignUpPage :62 - Clicking on SignUp Button
+2023-09-15 19:09:966 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:434 INFO  SignUpPage :55 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (e72a91eb66316712276fe6911e3c9864)] -> id: sign-password]
+2023-09-15 19:09:535 INFO  SignUpPage :62 - Clicking on SignUp Button
+2023-09-15 19:09:853 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:356 INFO  SignUpPage :56 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (bf4201bcdf5fa577aa988034c9e8165a)] -> id: sign-password]
+2023-09-15 19:09:458 INFO  SignUpPage :63 - Clicking on SignUp Button
+2023-09-15 19:09:817 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:987 INFO  SignUpPage :50 - Enter User [[ChromeDriver: chrome on windows (65000533ac9e3ec67e4b8421931428f8)] -> id: sign-username]
+2023-09-15 19:09:276 INFO  SignUpPage :59 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (65000533ac9e3ec67e4b8421931428f8)] -> id: sign-password]
+2023-09-15 19:09:463 INFO  SignUpPage :66 - Clicking on SignUp Button
+2023-09-15 19:09:504 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:685 INFO  SignUpPage :47 - Enter User [[ChromeDriver: chrome on windows (a86388861924e5117946a85138ee9ea2)] -> id: sign-username]
+2023-09-15 19:09:35 INFO  SignUpPage :56 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (a86388861924e5117946a85138ee9ea2)] -> id: sign-password]
+2023-09-15 19:09:191 INFO  SignUpPage :63 - Clicking on SignUp Button
+2023-09-15 19:09:634 INFO  HomePage :38 - Clicking on SignUp Button
+2023-09-15 19:09:774 INFO  SignUpPage :47 - Enter User [[ChromeDriver: chrome on windows (3bcef8972ec11ea8da17542ee30517f4)] -> id: sign-username]
+2023-09-15 19:09:12 INFO  SignUpPage :56 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (3bcef8972ec11ea8da17542ee30517f4)] -> id: sign-password]
+2023-09-15 19:09:128 INFO  SignUpPage :63 - Clicking on SignUp Button
+2023-09-15 19:09:860 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:17 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (1d5c26aabc2d87e530d2e5285933293e)] -> id: loginusername]
+2023-09-15 19:09:327 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (1d5c26aabc2d87e530d2e5285933293e)] -> id: loginpassword]
+2023-09-15 19:09:506 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:642 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:639 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:848 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (905c0fc02e3b56563a245a9abd23773e)] -> id: loginusername]
+2023-09-15 19:09:128 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (905c0fc02e3b56563a245a9abd23773e)] -> id: loginpassword]
+2023-09-15 19:09:200 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:400 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:230 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:359 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (868ea8ec49d0ce8b5b9da4fa44578c54)] -> id: loginusername]
+2023-09-15 19:09:621 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (868ea8ec49d0ce8b5b9da4fa44578c54)] -> id: loginpassword]
+2023-09-15 19:09:705 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:811 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:224 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:416 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (3fbab30d130ed9145b9b9063c10ce004)] -> id: loginusername]
+2023-09-15 19:09:694 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (3fbab30d130ed9145b9b9063c10ce004)] -> id: loginpassword]
+2023-09-15 19:09:767 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:933 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:935 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:73 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (8efa1f48d14a767f427a385662f2372f)] -> id: loginusername]
+2023-09-15 19:09:357 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (8efa1f48d14a767f427a385662f2372f)] -> id: loginpassword]
+2023-09-15 19:09:458 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:682 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:772 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:944 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (f24961a9d00aa387f8356c209ebedb0f)] -> id: loginusername]
+2023-09-15 19:09:232 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (f24961a9d00aa387f8356c209ebedb0f)] -> id: loginpassword]
+2023-09-15 19:09:320 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:502 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:727 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:867 INFO  LoginPage :46 - Enter username Json to username field [[ChromeDriver: chrome on windows (247f50aa3cd4769c746913a87b1ac9b4)] -> id: loginusername]
+2023-09-15 19:09:280 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (247f50aa3cd4769c746913a87b1ac9b4)] -> id: loginpassword]
+2023-09-15 19:09:393 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:514 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-15 19:09:653 INFO  HomePage :46 - Clicking on Login Button
+2023-09-15 19:09:792 INFO  LoginPage :46 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (99f4a4c8ecd5b6059e04ee5d7cdd7ca7)] -> id: loginusername]
+2023-09-15 19:09:50 INFO  LoginPage :53 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (99f4a4c8ecd5b6059e04ee5d7cdd7ca7)] -> id: loginpassword]
+2023-09-15 19:09:258 INFO  LoginPage :60 - Clicking on Login Button
+2023-09-15 19:09:395 INFO  LoginPage :71 - get actual title text of Welcome
+2023-09-16 12:09:136 INFO  HomePage :47 - Clicking on Login Button
+2023-09-16 12:09:322 INFO  LoginPage :42 - Enter username Json to username field [[ChromeDriver: chrome on windows (16a3a35e0e5abd7c0c19afbda9756405)] -> id: loginusername]
+2023-09-16 12:09:561 INFO  LoginPage :50 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (16a3a35e0e5abd7c0c19afbda9756405)] -> id: loginpassword]
+2023-09-16 12:09:652 INFO  LoginPage :57 - Clicking on Login Button
+2023-09-16 12:09:784 INFO  LoginPage :67 - get actual title text of Welcome
+2023-09-16 12:09:803 INFO  HomePage :47 - Clicking on Login Button
+2023-09-16 12:09:921 INFO  LoginPage :42 - Enter username Json1 to username field [[ChromeDriver: chrome on windows (515a621c46f10e7908b0ca4e5c3b7441)] -> id: loginusername]
+2023-09-16 12:09:181 INFO  LoginPage :50 - Enter Password martin to Password field [[ChromeDriver: chrome on windows (515a621c46f10e7908b0ca4e5c3b7441)] -> id: loginpassword]
+2023-09-16 12:09:281 INFO  LoginPage :57 - Clicking on Login Button
+2023-09-16 12:09:428 INFO  LoginPage :67 - get actual title text of Welcome
+2023-09-16 12:09:978 INFO  HomePage :55 - Mouse Hover And Click IPhone6
+2023-09-16 12:09:532 INFO  CartPage :82 - Clicking on Add To Cart Button
+2023-09-16 12:09:68 INFO  CartPage :88 - Get text from alert when product is added
+2023-09-16 12:09:99 INFO  CartPage :97 - Clicking on Ok button
+2023-09-16 12:09:149 INFO  CartPage :104 - Clicking on Cart Tab
+2023-09-16 12:09:716 INFO  CartPage :110 - get actual title text of Product Name
+2023-09-16 12:09:763 INFO  CartPage :115 - Clicking on Place To Order Button
+2023-09-16 12:09:875 INFO  CartPage :121 - Enter card holder name Mr Smith to Name field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='name']]
+2023-09-16 12:09:190 INFO  CartPage :127 - Enter card holder Country name United Kingdom to Country field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='country']]
+2023-09-16 12:09:300 INFO  CartPage :133 - Enter card holder City name London to City field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='city']]
+2023-09-16 12:09:418 INFO  CartPage :139 - Enter Card holder Card Number 5105105105105100 to Credit Card field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='card']]
+2023-09-16 12:09:516 INFO  CartPage :145 - Enter card holder Expire Month 12 to Month field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='month']]
+2023-09-16 12:09:630 INFO  CartPage :151 - Enter card holder Expire Year 2025 to Year field [[ChromeDriver: chrome on windows (d92d2573487c70b5f5c4fbbbe25bc5e7)] -> xpath: //input[@id='year']]
+2023-09-16 12:09:717 INFO  CartPage :157 - Clicking on Purchase Button
+2023-09-16 12:09:836 INFO  CartPage :163 - Verify actual title text of Thank you for your purchase!
+2023-09-16 12:09:879 INFO  CartPage :169 - Click on ok button
+2023-09-16 12:09:291 INFO  CartPage :175 - get actual title text of Logo
+2023-09-16 12:09:827 INFO  HomePage :39 - Clicking on SignUp Button
+2023-09-16 12:09:174 INFO  SignUpPage :41 - Enter User [[ChromeDriver: chrome on windows (4b3ab9c735c2171bcf81bbae6813793f)] -> id: sign-username]
+2023-09-16 12:09:204 INFO  SignUpPage :49 - Enter Password cena to Password field [[ChromeDriver: chrome on windows (4b3ab9c735c2171bcf81bbae6813793f)] -> id: sign-password]
+2023-09-16 12:09:285 INFO  SignUpPage :58 - Clicking on SignUp Button
+2023-09-16 12:09:467 INFO  SignUpPage :68 - Get the Title of text from alert
+2023-09-16 12:09:506 INFO  SignUpPage :78 - Clicking on Ok Button
